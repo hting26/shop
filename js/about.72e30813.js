@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,n){"use strict";n.r(e);var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{attrs:{id:"about"}},[n("b-container",[n("b-row",[n("b-col",{staticClass:"text-center",attrs:{cols:"12"}},[n("p",[t._v("網頁設計維護"),n("br"),n("br"),t._v("最近更新日期："+t._s(t.date))])])],1)],1)],1)},r=[],o={data:function(){return{date:(new Date).toLocaleString()}}},c=o,s=n("2877"),l=Object(s["a"])(c,a,r,!1,null,null,null);e["default"]=l.exports}}]);
+//# sourceMappingURL=about.72e30813.js.map
